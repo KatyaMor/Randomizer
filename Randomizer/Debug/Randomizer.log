@@ -1,0 +1,15 @@
+﻿  hist.cpp
+  Создание кода...
+  Компиляция...
+  main.cpp
+h:\c++\randomizer\randomizer\main.cpp(19): error C2664: "void histogram(std::function<double (void)> &,double &,double &,int &)": невозможно преобразовать аргумент 1 из "double (__cdecl *)(void)" в "std::function<double (void)> &"
+h:\c++\randomizer\randomizer\main.cpp(20): error C2664: "void histogram(std::function<double (void)> &,double &,double &,int &)": невозможно преобразовать аргумент 1 из "double (__cdecl *)(void)" в "std::function<double (void)> &"
+h:\c++\randomizer\randomizer\main.cpp(21): error C2664: "void histogram(std::function<double (void)> &,double &,double &,int &)": невозможно преобразовать аргумент 1 из "double (__cdecl *)(void)" в "std::function<double (void)> &"
+h:\c++\randomizer\randomizer\main.cpp(22): error C2664: "void histogram(std::function<double (void)> &,double &,double &,int &)": невозможно преобразовать аргумент 1 из "double (__cdecl *)(void)" в "std::function<double (void)> &"
+h:\c++\randomizer\randomizer\main.cpp(23): error C2664: "void histogram(std::function<double (void)> &,double &,double &,int &)": невозможно преобразовать аргумент 1 из "double (__cdecl *)(void)" в "std::function<double (void)> &"
+h:\c++\randomizer\randomizer\main.cpp(24): error C2664: "void histogram(std::function<double (void)> &,double &,double &,int &)": невозможно преобразовать аргумент 1 из "double (__cdecl *)(void)" в "std::function<double (void)> &"
+h:\c++\randomizer\randomizer\main.cpp(25): error C2664: "void histogram(std::function<double (void)> &,double &,double &,int &)": невозможно преобразовать аргумент 1 из "double (__cdecl *)(void)" в "std::function<double (void)> &"
+h:\c++\randomizer\randomizer\main.cpp(26): error C2664: "void histogram(std::function<double (void)> &,double &,double &,int &)": невозможно преобразовать аргумент 1 из "double (__cdecl *)(void)" в "std::function<double (void)> &"
+h:\c++\randomizer\randomizer\main.cpp(27): error C2664: "void histogram(std::function<double (void)> &,double &,double &,int &)": невозможно преобразовать аргумент 1 из "double (__cdecl *)(void)" в "std::function<double (void)> &"
+h:\c++\randomizer\randomizer\main.cpp(28): error C2664: "void histogram(std::function<double (void)> &,double &,double &,int &)": невозможно преобразовать аргумент 1 из "double (__cdecl *)(void)" в "std::function<double (void)> &"
+  Создание кода...
